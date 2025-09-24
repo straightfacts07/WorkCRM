@@ -1,0 +1,15 @@
+what will this how
+-create v env
+-base pages
+  -create app for pages
+  - craeet base templates
+  -create front page
+  -create about page
+-authetication
+-simple dash board
+-create new leads
+-change and delete leads
+-convert leads to clients
+-implemnet solution for teams
+-implement a payment solution
+-deploy
