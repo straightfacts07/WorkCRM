@@ -1,10 +1,15 @@
+//steps to actually start
+//run django_env\Scripts\activate
+//cd homecrm
+// python manage.py runserver = to run server
+
 what will this how
 -create v env
--base pages
-  -create app for pages
-  - craeet base templates
-  -create front page
-  -create about page
+-DONE base pages
+  -DONE create app for pages
+  -DONE  craeet base templates
+  -DONE create front page
+  -DONEcreate about page
 -authetication
 -simple dash board
 -create new leads
