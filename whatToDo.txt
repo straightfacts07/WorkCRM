@@ -1,7 +1,16 @@
 //steps to actually start
-//run django_env\Scripts\activate
-//cd homecrm
-// python manage.py runserver = to run server
+//i need to first install django after each push i do because u know github wont store that
+//step 1=python -m venv django_env
+//step 2- django_env\Scripts\activate
+//step 3= pip install django
+//step 4 =cd homecrm
+//step 5=  python manage.py runserver 
+its lowkey better to add all the steps in requirement but again we only need django and that need to be DONE
+after pushing this all on github
+so basically completeling the whole project and then pushin it and all will save me from the doing
+all five steps every time i push
+
+
 
 what will this how
 -create v env
